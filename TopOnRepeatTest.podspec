@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'TopOnTest'
+  s.name             = 'TopOnRepeatTest'
   s.version          = '0.1.0'
   s.summary          = '测试可不吗'
   s.description      = <<-DESC
